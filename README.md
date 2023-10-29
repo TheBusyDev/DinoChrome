@@ -7,4 +7,4 @@ Written in Java (Processing)\
 \
 ![](./images/example_2.png)\
 \
-![](./images/example_3.png)\
+![](./images/example_3.png)
